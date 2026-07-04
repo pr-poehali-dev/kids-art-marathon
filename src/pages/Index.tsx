@@ -132,7 +132,7 @@ const Index = () => {
         <div className="container grid items-center gap-10 py-16 lg:grid-cols-2 lg:py-24">
           <div className="animate-fade-up">
             <span className="mb-5 inline-flex items-center gap-2 rounded-full bg-white px-4 py-2 text-sm font-semibold text-primary shadow-sm">
-              <Icon name="Sparkles" size={16} /> Онлайн-марафон для детей 7–14 лет
+              <Icon name="Sparkles" size={16} /> Онлайн-марафон для детей 10–16 лет
             </span>
             <h1 className="font-display text-4xl font-extrabold leading-[1.1] text-foreground sm:text-5xl lg:text-6xl">
               Развитие творческого мышления ребёнка через{' '}
