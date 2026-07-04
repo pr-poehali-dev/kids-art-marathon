@@ -340,7 +340,7 @@ const Index = () => {
               </div>
               <div className="relative overflow-hidden rounded-2xl border-4 border-white/30 bg-white text-center text-foreground shadow-2xl">
                 <img
-                  src="https://cdn.poehali.dev/projects/b0375612-a0eb-426c-b970-c2e965bbbdc0/files/ff076600-7f90-4f89-8e6e-2fbf736125a0.jpg"
+                  src="https://cdn.poehali.dev/projects/b0375612-a0eb-426c-b970-c2e965bbbdc0/bucket/c83d60d1-a11b-4961-b04b-e32e72fc61b6.png"
                   alt="Сертификат участника творческого марафона"
                   className="h-full w-full object-cover"
                 />
