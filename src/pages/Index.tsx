@@ -364,7 +364,7 @@ const Index = () => {
               <span className="mb-2 inline-block rounded-full bg-accent/30 px-4 py-1 text-sm font-semibold text-accent-foreground">
                 Об авторе
               </span>
-              <h3 className="font-display text-2xl font-bold">{`{{author}}`}</h3>
+              <h3 className="font-display text-2xl font-bold">Самороковская Людмила Александровна</h3>
               <p className="mt-3 text-muted-foreground">
                 Педагогический и творческий опыт, работа с визуальным искусством и
                 обучение детей. Спокойный, бережный подход — без давления и лишней
