@@ -467,7 +467,7 @@ const Index = () => {
           </h2>
           <p className="mx-auto mt-4 max-w-md text-white/85">
             Оставьте контакты — мы напишем детали старта и забронируем место.
-            Стоимость участия: {`{{price}}`}
+            Стоимость участия: <span className="font-bold text-white">2800 ₽</span>
           </p>
 
           {sent ? (
