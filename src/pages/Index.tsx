@@ -338,15 +338,12 @@ const Index = () => {
                   за смелость, старание и первый цифровой проект.
                 </p>
               </div>
-              <div className="relative rounded-2xl border-4 border-white/30 bg-white p-8 text-center text-foreground shadow-2xl">
-                <Icon name="Award" size={44} className="mx-auto text-secondary" />
-                <p className="mt-3 font-hand text-3xl text-primary">Диплом участника</p>
-                <p className="mt-1 text-sm text-muted-foreground">творческого марафона</p>
-                <div className="my-4 h-px bg-border" />
-                <p className="font-hand text-2xl">Имя ребёнка</p>
-                <p className="mt-1 text-xs text-muted-foreground">
-                  успешно завершил(а) все задания
-                </p>
+              <div className="relative overflow-hidden rounded-2xl border-4 border-white/30 bg-white text-center text-foreground shadow-2xl">
+                <img
+                  src="https://cdn.poehali.dev/projects/b0375612-a0eb-426c-b970-c2e965bbbdc0/files/ff076600-7f90-4f89-8e6e-2fbf736125a0.jpg"
+                  alt="Сертификат участника творческого марафона"
+                  className="h-full w-full object-cover"
+                />
               </div>
             </div>
           </div>
