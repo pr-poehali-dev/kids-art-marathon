@@ -121,7 +121,7 @@ const Index = () => {
             <div className="flex h-9 w-9 items-center justify-center rounded-xl bg-primary text-primary-foreground">
               <Icon name="Palette" size={20} />
             </div>
-            <span className="font-display text-lg font-bold">{`{{marathon_name}}`}</span>
+            <span className="font-display text-lg font-bold">Магия цифрового искусства</span>
           </div>
           <CtaButton className="hidden px-6 py-4 text-sm sm:inline-flex" />
         </div>
@@ -390,6 +390,7 @@ const Index = () => {
               { icon: 'CalendarDays', t: '5–7 дней' },
               { icon: 'Clock', t: 'Уроки 10–20 минут' },
               { icon: 'ListChecks', t: 'Простые задания' },
+              { icon: 'Laptop', t: 'Нужен ноутбук, MacBook или ПК' },
               { icon: 'Trophy', t: 'Итоговый проект' },
             ].map((f, i) => (
               <div
@@ -519,7 +520,7 @@ const Index = () => {
             <div className="flex h-8 w-8 items-center justify-center rounded-xl bg-primary text-primary-foreground">
               <Icon name="Palette" size={18} />
             </div>
-            <span className="font-display font-bold text-foreground">{`{{marathon_name}}`}</span>
+            <span className="font-display font-bold text-foreground">Магия цифрового искусства</span>
           </div>
           <p>© {new Date().getFullYear()} · Творческий марафон для детей {`{{age_group}}`}</p>
         </div>
