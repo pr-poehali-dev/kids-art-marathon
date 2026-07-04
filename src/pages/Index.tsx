@@ -50,7 +50,7 @@ const Index = () => {
   const [sent, setSent] = useState(false);
 
   const pains = [
-    { icon: 'Smartphone', text: 'Ребёнок много времени в телефоне, но ничего не создаёт' },
+    { icon: 'Smartphone', text: 'Ребёнок много времени в телефоне или в компьютере, но ничего не создаёт' },
     { icon: 'Pencil', text: 'Рисование есть, но навык не развивается' },
     { icon: 'ShieldQuestion', text: 'Сложно найти современное и при этом безопасное обучение' },
     { icon: 'CloudLightning', text: 'Цифровая среда не используется для творчества' },
