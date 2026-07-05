@@ -521,7 +521,7 @@ const Index = () => {
             </div>
             <span className="font-display font-bold text-foreground">Магия цифрового искусства</span>
           </div>
-          <p>© {new Date().getFullYear()} · Творческий марафон для детей {`{{age_group}}`}</p>
+          <p>© {new Date().getFullYear()} · Творческий марафон для детей 10–16 лет</p>
         </div>
       </footer>
     </div>
