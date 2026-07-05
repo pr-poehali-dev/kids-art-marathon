@@ -10,7 +10,7 @@ import {
 } from '@/components/ui/accordion';
 
 const HERO_IMG =
-  'https://cdn.poehali.dev/projects/b0375612-a0eb-426c-b970-c2e965bbbdc0/files/e5b4dd32-04e2-4317-a597-6ebc8ebfbcb7.jpg';
+  'https://cdn.poehali.dev/projects/b0375612-a0eb-426c-b970-c2e965bbbdc0/files/e9534a81-f7dd-40a4-8f72-d433302c9382.jpg';
 
 const CtaButton = ({ className = '' }: { className?: string }) => (
   <Button
