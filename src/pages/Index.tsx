@@ -249,7 +249,7 @@ const Index = () => {
           <SectionTitle
             eyebrow="Программа"
             title="Марафон по дням"
-            sub="{{program}} · короткие уроки по 10–20 минут"
+            sub="«Магия цифрового искусства» · короткие уроки по 10–20 минут"
           />
           <div className="mx-auto max-w-3xl space-y-4">
             {program.map((p, i) => (
